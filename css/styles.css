@@ -1,0 +1,89 @@
+/*Shutterbug Bootstrap Project 12/3/19*/
+
+.container {
+	max-width: 968px;
+	
+}
+
+.main {
+	background-image: url("../images/sbugg_images/intro.jpg" );
+	height: 600px;
+	background-size: cover;
+	padding: 30px;
+}
+.main h1 {
+	font-family: 'Asap Condensed', sans-serif;
+	font-size: 100px;
+	
+}
+
+
+.main h2 {
+	font-family: 'Asap Condensed', sans-serif;
+	font-size: 50px;
+}
+.btn {
+	font-size: 15px;
+	background-color: black;
+	color: ivory;
+	border-radius: 30px;
+	padding : 15px;
+}
+.btn:hover {
+	background-color:ivory;
+	color:black;
+	
+}
+.section p {
+	font-family: 'Asap Condensed', sans-serif;
+	font-size: 20px;
+}
+.row {
+	padding:15px;
+}
+.row h1 {
+		font-family: 'Asap Condensed', sans-serif;
+		text-align: center;
+		font-size: 50px;
+		font-weight: bold;
+		
+}
+#store {
+	text-align:center;
+	padding: 15px;
+
+}
+
+.footer h1 {
+
+	font-size:30px;
+	font-weight: bold;
+	text-align:center;
+}
+.footer ul {
+	text-align:center;
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
