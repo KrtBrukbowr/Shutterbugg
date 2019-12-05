@@ -25,15 +25,27 @@
 }
 .btn {
 	font-size: 15px;
-	background-color: black;
+	background-color: #707070;
 	color: ivory;
 	border-radius: 30px;
 	padding : 15px;
 }
 .btn:hover {
-	background-color:ivory;
+	background-color:#E0E0E0;
 	color:black;
 	
+}
+.section1 {
+	background-color: #707070;
+}
+.section2 {
+	background-color: #B3B3B3;
+}
+.section3 {
+	background-color: #E0E0E0;
+}
+.section4 {
+	background-color: #F6F6F6;
 }
 .section p {
 	font-family: 'Asap Condensed', sans-serif;
@@ -54,7 +66,9 @@
 	padding: 15px;
 
 }
-
+.footer {
+	background-color: #F6F6F6;
+}
 .footer h1 {
 
 	font-size:30px;
